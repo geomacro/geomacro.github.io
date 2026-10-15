@@ -3,8 +3,8 @@ title: GeoMacro
 description: Bienvenue sur le site du Réseau Thématique GeoMacro
 
 header_pages:
-  - index.md
-  - contact.md
+- index.md
+- contact.md
 
 slate:
   header_background: "#1a1a1a"

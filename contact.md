@@ -8,7 +8,7 @@ Pour recevoir l'actualité du réseau thématique par email, il suffit d'envoyer
 
 Une question ou une requête ? Contactez l'un des trois coordinateurs :
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
   
   <a href="mailto:licht@cerege.fr" style="text-decoration: none; color: inherit; display: flex; flex-direction: column; align-items: center;">
     <img src="{{ '/assets/images/photo-alexis.jpg'   relative_url }}" alt="Alexis" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">

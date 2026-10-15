@@ -24,7 +24,7 @@ Le réseau thématique propose de coordonner nos efforts dans quatre directions 
 
 •	Casser les barrières communautaires et travailler sur l’accessibilité de nos outils et de nos données ;
 
-•	Améliorer l’intégration des données «paléo» (et de leur incertitude) dans les modèles macroévolutifs ;
+•	Améliorer l’intégration des données «paléo» (et de leur incertitude) dans les modèles paléobiologiques (macroévolutifs, macroécologiques) et géologiques (paléoclimatiques, paléogéographiques) ;
 
 •	Combiner nos efforts de recherche sur plusieurs événements biotiques majeurs, en améliorant la résolution spatiale et temporelle des données disponibles ;
 

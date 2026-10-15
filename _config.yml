@@ -1,3 +1,16 @@
 title: GeoMacro
 description: Bienvenue sur le site du Réseau Thématique GeoMacro
 theme: jekyll-theme-slate
+
+ nav:
+    - title: Accueil
+      url: /
+    - title: À propos
+      url: /about
+    - title: Services
+      url: /services
+    - title: Contact
+      url: /contact
+  # Personnalise les couleurs
+  color_scheme: dark # ou "light"
+  # logo: /assets/images/logo.png # (optionnel)

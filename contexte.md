@@ -10,8 +10,8 @@ L’intégration des contraintes paléoenvironnementales dans les études macro�
 
 <div style="text-align: center; margin: 20px 0;">
   <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 10px;">
-    <img src="{{ '/assets/images/photo1.jpg'   relative_url }}" alt="Photo 1" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <img src="{{ '/assets/images/photo2.jpg' | relative_url }}" alt="Photo 2" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="{{ '/assets/images/004_Brainstorm.jpg'   relative_url }}" alt="Photo 1" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="{{ '/assets/images/001_Brainstorming.jpg' | relative_url }}" alt="Photo 2" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="font-style: italic; color: #555;">Le workshop BioGeoPhylo à Arles en 2025</div>
 </div>

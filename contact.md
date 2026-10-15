@@ -6,10 +6,8 @@ Pour recevoir l'actualité du réseau thématique par email, il suffit d'envoyer
 
 # Contactez les coordinateurs
 
-<a href="mailto:licht@cerege.fr" target="_blank">
-<figure>
+<a href="mailto:licht@cerege.fr" style="text-decoration: none; color: inherit;">
   <img src="{{ '/assets/images/photo-alexis.jpg'   relative_url }}" alt="Ma photo" width="200">
   <figcaption>Alexis Licht</figcaption>
-</figure>
 </a>
 

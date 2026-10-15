@@ -1,23 +1,24 @@
 <header class="site-header" role="banner">
-  {%- if site.title or site.header_pages -%}
-    <div class="wrapper">
-      <!-- AJOUT DE TON LOGO ICI -->
-      <div style="text-align: center; margin: 0 0 15px 0;">
-        <a href="{{ '/' | relative_url }}">
-          <img src="{{ '/assets/images/logo_cnrs.png' | relative_url }}" alt="Logo" style="max-width: 50px; height: auto;">
-        </a>
-      </div>
+  <div class="wrapper" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-      <!-- CODE ORIGINAL DE MINIMA (NE PAS MODIFIER) -->
+    <!-- LOGO À GAUCHE -->
+    <div style="flex: 0 0 auto;">
+      <a href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/images/logo_cnrs.png' | relative_url }}" alt="Logo" style="height: 50px; width: auto;">
+      </a>
+    </div>
+
+    <!-- TITRE + MENU (structure Minima modifiée pour horizontal) -->
+    <div style="flex: 1; display: flex; align-items: center; justify-content: flex-end; gap: 20px;">
       {%- if site.title -%}
-        <h1 class="site-title">
-          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <h1 class="site-title" style="margin: 0; font-size: 1.5em;">
+          <a href="{{ '/' | relative_url }}" style="color: inherit; text-decoration: none;">{{ site.title }}</a>
         </h1>
       {%- endif -%}
 
       {%- if site.header_pages -%}
         <nav class="site-nav">
-          <ul>
+          <ul style="list-style: none; padding: 0; margin: 0; display: flex; gap: 15px;">
             {%- for page in site.header_pages -%}
               <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
             {%- endfor -%}
@@ -25,5 +26,5 @@
         </nav>
       {%- endif -%}
     </div>
-  {%- endif -%}
+  </div>
 </header>

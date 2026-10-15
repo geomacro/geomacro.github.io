@@ -1,6 +1,6 @@
+theme: jekyll-theme-slate
 title: GeoMacro
 description: Bienvenue sur le site du Réseau Thématique GeoMacro
-theme: jekyll-theme-slate
 
 header_pages:
   - index.md

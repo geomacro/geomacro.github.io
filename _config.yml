@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: GeoMacro
-description: Bienvenue sur le site du Réseau Thématique GeoMacro
+title: Réseau Thématique GeoMacro
+description: Intégrer données des géosciences, approches macroévolutives et macroécologiques pour mieux comprendre la dynamique des espèces sur le temps long
 
 header_pages:
 - index.md

@@ -6,7 +6,3 @@ header_pages:
 - index.md
 - contact.md
 
-slate:
-  header_background: "#1a1a1a"
-  header_text_color: "#ecf0f1"
-  header_link_hover_color: "#3498db"

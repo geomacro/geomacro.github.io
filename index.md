@@ -4,6 +4,22 @@ title: Accueil
 # Qu'est ce que GeoMacro ?
 GeoMacro est un [Réseau Thématique](https://www.insu.cnrs.fr/fr/groupements-de-recherche) de [l'INSU](https://www.insu.cnrs.fr/fr) créé le 1er janvier 2027, centré autour de **l'interface entre Géosciences, Macroévolution et Macroécologie**.
 
+# Quel est son but ?
+GeoMacro regroupe géologues, paléoclimatologues, biologistes et écologues travaillant aux grandes échelles de temps et de coordonner nos efforts dans quatre directions :
+
+•	Casser les barrières communautaires et travailler sur l’accessibilité de nos outils et de nos données ;
+
+•	Améliorer l’intégration des données «paléo» (et de leur incertitude) dans les modèles macroévolutifs ;
+
+•	Combiner nos efforts de recherche sur plusieurs événements biotiques majeurs, en améliorant la résolution spatiale et temporelle des données disponibles ;
+
+•	Développer de nouveaux outils de reconstruction des traits et de la paléoécologie en vue de leur incorporation dans les études paléoclimatiques et modèles macroévolutifs.
+
+Le réseau a pour but ultime de structurer une communauté existante mais éparpillée travaillant à l’interface de des sciences de la vie et de la Terre. Construit autour de deux groupes de travail — l’un dédié à la co-construction des enregistrements paléoenvironnementaux, l’autre à l’adaptation des modèles aux besoins des communautés — le réseau organise des événements réguliers (rencontres annuelles, école d’été) pour catalyser la soumission de synthèses de données, articles, et projets collaboratifs. 
+
+GeoMacro se distingue des initiatives existantes par son équilibre entre sciences de la Vie et de la Terre, et son focus sur l’intégration des dynamiques du système Terre dans les modèles biologiques. Son originalité réside dans sa double expertise (données et modèles) et son positionnement stratégique à un moment où la multiplication des outils et la fragmentation des communautés rendent indispensable une coordination renforcée.
+
+
 # Pourquoi GeoMacro ?
 L’analyse des processus macroévolutifs s’appuie de plus en plus sur l’intégration explicite de données paléontologiques, paléogéographiques et paléoclimatiques, qui fournissent des contraintes essentielles pour reconstruire l’histoire évolutive des espèces (quelques exemples [ici](https://www.pnas.org/doi/abs/10.1073/pnas.1606868114) et [ici](https://www.pnas.org/doi/abs/10.1073/pnas.2425573122)). Ces informations permettent d’affiner l’interprétation des dynamiques de diversification, des transitions de traits et des patrons biogéographiques en éclairant le contexte environnemental et géologique dans lequel ces processus se sont déroulés. Réciproquement, la reconstitution de l’histoire évolutive et biogéographique des taxons fournit des indicateurs robustes sur la chronologie et l’intensité d’événements géologiques majeurs — tels que l’émergence de barrières, les réorganisations paléogéographiques ou les phases de perturbation climatique (Licht et al., 2022, ESR ; Straume et al., 2025, NREE). Ils permettent ainsi une interprétation intégrée des interactions entre processus biologiques et transformations de la lithosphère et de la biosphère.
 

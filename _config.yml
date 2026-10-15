@@ -4,5 +4,7 @@ description: Géosciences, Macroévolution et Macroécologie
 
 header_pages:
 - index.md
+- contexte.md
+- evenements.md
 - contact.md
 

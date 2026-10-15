@@ -9,7 +9,13 @@ Pour recevoir l'actualité du réseau thématique par email, il suffit d'envoyer
 <div style="text-align: center; margin: 20px 0;">
   <a href="mailto:licht@cerege.fr" style="text-decoration: none; color: inherit; display: inline-block;">
     <img src="{{ '/assets/images/photo-alexis.jpg'   relative_url }}" alt="Ma photo" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <div style="margin-top: 10px; font-style: italic;">Alexis Licht, CEREGE</div>
+    <div style="margin-top: 10px; font-style: italic;">Alexis Licht, CEREGE, Aix-en-Provence</div>
   </a>
 </div>
 
+<div style="text-align: center; margin: 20px 0;">
+  <a href="mailto:licht@cerege.fr" style="text-decoration: none; color: inherit; display: inline-block;">
+    <img src="{{ 'https://alexpohl.github.io/assets/img/prof_pic.jpg'   relative_url }}" alt="Ma photo" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div style="margin-top: 10px; font-style: italic;">Alexandre Pohl, Biogeosciences, Dijon</div>
+  </a>
+</div>

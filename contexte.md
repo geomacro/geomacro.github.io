@@ -17,3 +17,17 @@ L’intégration des contraintes paléoenvironnementales dans les études macro�
   </div>
   <div style="font-style: italic; color: #555;">Le workshop BioGeoPhylo à Arles en 2025</div>
 </div>
+
+# Nos objectifs
+
+Le réseau thématique propose de coordonner nos efforts dans quatre directions :
+
+•	Casser les barrières communautaires et travailler sur l’accessibilité de nos outils et de nos données ;
+
+•	Améliorer l’intégration des données «paléo» (et de leur incertitude) dans les modèles macroévolutifs ;
+
+•	Combiner nos efforts de recherche sur plusieurs événements biotiques majeurs, en améliorant la résolution spatiale et temporelle des données disponibles ;
+
+•	Développer de nouveaux outils de reconstruction des traits et de la paléoécologie en vue de leur incorporation dans les études paléoclimatiques et modèles macroévolutifs.
+
+La coordination générale du réseau est assurée par [Alexis Licht](https://alexislicht.com/). Notre programme d’action est divisé en deux grands groupes de travail (GT) interdisciplinaires : un GT « amont » (qui travaille sur l’intégration des données géologiques au sein des études macroévolutives, coordonné par [Alexandre Pohl](https://alexpohl.github.io/)), et un GT « aval » (qui travaille sur le perfectionnement et l’accessibilité de nos modèles -- macroévolutifs, paléoécologiques ou paléoenvironnementaux— pour nos communautés, coordonné par [Anta-Clarisse Sarr](https://antac-sarr.github.io/)).

@@ -1,20 +1,22 @@
-<header class="site-header" role="banner">
-  <!-- Image dans le header -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <a href="{{ '/' | relative_url }}">
-      <img src="{{ '/assets/images/logo_cnrs.png' | relative_url }}" alt="Logo" style="max-width: 30px; height: auto;">
-    </a>
-  </div>
+<header class="site-header" role="banner" style="display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <!-- Image à gauche -->
+  <a href="{{ '/' | relative_url }}">
+    <img src="{{ '/assets/images/logo_cnrs.png' | relative_url }}" alt="Logo" style="max-width: 40px; height: auto;">
+  </a>
 
-  <!-- Navigation (menu) -->
-  <nav class="site-nav">
-    <h1 class="site-nav__title">
-      <a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
+  <!-- Titre et menu (conservés) -->
+  <div>
+    <h1 class="site-title" style="margin: 0;">
+      <a href="{{ '/' | relative_url }}" style="text-decoration: none; color: inherit;">{{ site.title | default: site.github.repository_name }}</a>
     </h1>
-    <ul class="nav-list">
-      {% for page in site.header_pages %}
-        <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
+    {% if site.header_pages %}
+      <nav class="site-nav" style="text-align: center;">
+        <ul style="list-style: none; padding: 0; margin: 0; display: flex; justify-content: center; gap: 15px;">
+          {% for page in site.header_pages %}
+            <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    {% endif %}
+  </div>
 </header>
